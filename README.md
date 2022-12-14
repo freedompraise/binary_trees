@@ -31,7 +31,6 @@ This knowledge is applied to the solving of each task therein in this repository
 
 
 ## Authors & Credits
-This is an ALX Holberton School project, it was done in a team of two people indicated below;
+This is an ALX Holberton School project, it was done by;
 
-- [Oluwatomisin Isogun](https://@github.com/TosinISOGUN)
-- [Olaoluwa Isogun](https://@github.com/OlaoluwaISOGUN)
+- [Dike Praise](https://@github.com/freedompraise)
